@@ -1,4 +1,4 @@
-# [Learn X in Y minutes][1]
+# [Learn Alpha and Bertha minutes][1]
 
 Whirlwind tours of (several, hopefully many someday) popular and
 ought-to-be-more-popular programming languages, presented as valid, commented
